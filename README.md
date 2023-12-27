@@ -26,18 +26,10 @@ I am a passionate web developer, dedicated to create engaging and functional web
 ### Countries App
 
 - **Description**: Certainly! A "countries app" is a mobile application designed to provide information, details, and various aspects about different countries around the world. This app typically includes features such as:
+**Country Profiles:** Detailed information about individual countries, including their flag, capital, population, currency, language, and time zone.
 
-1. **Country Profiles:** Detailed information about individual countries, including their flag, capital, population, currency, language, and time zone.
+**Geographical and Historical Data:** Maps, geographical features, historical timelines, and cultural insights about each country.
 
-2. **Travel Information:** Insights on travel essentials such as visa requirements, local customs, popular tourist attractions, and safety tips.
-
-3. **Geographical and Historical Data:** Maps, geographical features, historical timelines, and cultural insights about each country.
-
-4. **Language and Translation Tools:** Basic phrases, language guides, and translation tools to assist travelers in communicating with locals.
-
-5. **Currency Converter:** Tools to convert currencies and understand the exchange rates in different countries.
-
-6. **Weather Updates:** Real-time weather information and forecasts for various locations.
 
 Overall, a countries app serves as a comprehensive resource for those seeking knowledge about global cultures and flags.
 - **Technologies Used**: List of languages, frameworks, and tools utilized.
@@ -47,7 +39,7 @@ Overall, a countries app serves as a comprehensive resource for those seeking kn
 
 ## Technologies Used
 
-- html, css, javascript, scss, react.js, mongoDB, Node.js, Express.js, cors,.
+- html, css, javascript, scss, Bootstrap, react.js, mongoDB, Node.js, Express.js, cors,...
 
 ## How to Use
 
